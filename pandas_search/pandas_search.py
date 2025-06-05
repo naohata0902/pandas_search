@@ -10,13 +10,15 @@ class PandasSearch():
 
     def can_match(self, value: str, expression: str) -> bool:
         """
-        this returns boolean whether the value is matched by the regex expression
+        this returns True if the value is matched by the regex expression
+        and returns False if it isn't
         parameter:
             value(str): searched word
             expression(str): regular expression to search
         retrun:
             boolean
         """
+        try:
         m = re.search(expression, value)
         if m is None:
             return False
