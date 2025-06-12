@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd
 from pandas_search.pandas_search import PandasSearch
 
 def test_run():
@@ -7,9 +7,17 @@ def test_run():
 
     print(ps.nr, ps.nc)
 
-    ans = ps.can_match("abvccc", "^.bvc")
+    ans = ps.is_match("abvccc", "^.bvc")
     print("regex match: ", ans)
 
+    cells = ps.search("広島")
+    """
+    for cell in cells:
+        print(f"position : {cell}, val:{df.iloc[*cell]}")
+    """
+
+    ans = ps.peek(cells, shift=(0, 0
+                                 ))
 
 if __name__ == "__main__":
     test_run()
