@@ -67,7 +67,9 @@ class Area:
         if r > self.nr or c > self.nc:
             raise ValueError(f"coordinate {position} must be within " +
                              f"max ({self.nr - 1}, {self.nc - 1})")
-        
+    
+    def __str__(self):
+        return str((tuple(self.top_left), tuple(self.bottom_right)))
 
 class Cell:
     def __init__(self, r: int, c: int):
@@ -98,6 +100,12 @@ class Cell:
     def v(self, val: tuple):
         self.__row, self.__col = val
 
+    def __add__(self, other: "Cell") -> "Cell":
+        return Cell(self.r + other.r, self.c + other.c)
+    
+    def __str__(self):
+        return str(self.v)
+
 
 if __name__ == "__main__":
 
@@ -112,3 +120,8 @@ if __name__ == "__main__":
     area = Area(df, (0, 0), (3,3))
     print(area)
     print(area.v)
+
+    c1 = Cell(5, 1)
+
+    c3 = c0 + c1
+    print(c3)
