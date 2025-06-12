@@ -16,8 +16,8 @@ def test_run():
         print(f"position : {cell}, val:{df.iloc[*cell]}")
     """
 
-    ans = ps.peek(cells, shift=(0, 0
-                                 ))
+    ans = ps.peek(cells, shift=(0, 1))
+ 
 
 if __name__ == "__main__":
     test_run()
