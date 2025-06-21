@@ -19,26 +19,26 @@ class Area:
         self.check()
 
     @property
-    def v(self) -> tuple[tuple[int, int], tuple[int, int]]:
+    def val(self) -> tuple[tuple[int, int], tuple[int, int]]:
         """
         this gives the area coordinates which is converted and checked
         """
-        return (tuple(self.top_left), tuple(self.bottom_right))
+        return (self.top_left_cell.val, self.bottom_right_cell.val)
 
     def conv(self):
-        if self.top_left_cell.r < 0:
-            self.top_left_cell.r = self.nr - 1
-        if self.top_left_cell.c < 0:
-            self.top_left_cell.c = self.nc - 1
-        self.top_left =(self.top_left_cell.r,
-                        self.top_left_cell.c)
+        if self.top_left_cell.row < 0:
+            self.top_left_cell.row = self.nr + self.top_left_cell.row
+        if self.top_left_cell.col < 0:
+            self.top_left_cell.col = self.nc + self.top_left_cell.col
+        self.top_left =(self.top_left_cell.row,
+                        self.top_left_cell.col)
 
-        if self.bottom_right_cell.r < 0:
-            self.bottom_right_cell.r = self.nr - 1
-        if self.bottom_right_cell.c < 0:
-            self.bottom_right_cell.c = self.nc - 1
-        self.bottom_right = (self.bottom_right_cell.r,
-                             self.bottom_right_cell.c)
+        if self.bottom_right_cell.row < 0:
+            self.bottom_right_cell.row = self.nr + self.bottom_right_cell.row
+        if self.bottom_right_cell.col < 0:
+            self.bottom_right_cell.col = self.nc + self.bottom_right_cell.col
+        self.bottom_right = (self.bottom_right_cell.row,
+                             self.bottom_right_cell.col)
 
     def check(self):
         """
@@ -47,30 +47,30 @@ class Area:
         - positon must be within max of dataframe
         """
         self.check_rc_order()
-        self.check_rc_max(self.top_left_cell.v)
-        self.check_rc_max(self.bottom_right_cell.v)
+        self.check_rc_max(self.top_left_cell.val)
+        self.check_rc_max(self.bottom_right_cell.val)
 
     def check_rc_order(self) -> None:
         """
         check end_position is larger than start_position 
         """
-        if (self.top_left_cell.r > self.bottom_right_cell.r
-            or self.top_left_cell.c > self.bottom_right_cell.c):
+        if (self.top_left_cell.row > self.bottom_right_cell.row
+            or self.top_left_cell.col > self.bottom_right_cell.col):
             raise ValueError("end cell must be " +
                              "larger than start row" +
-                             f": {self.top_left_cell.v} - {self.bottom_right_cell.v}")
+                             f": {self.top_left_cell.val} - {self.bottom_right_cell.val}")
 
     def check_rc_max(self, position: tuple[int, int]) -> None:
         """
         check the position is within the max of row and column
         """
         r, c = position
-        if r > self.nr or c > self.nc:
+        if r >= self.nr or c >= self.nc:
             raise ValueError(f"coordinate {position} must be within " +
                              f"max ({self.nr - 1}, {self.nc - 1})")
     
     def __str__(self):
-        return str((tuple(self.top_left), tuple(self.bottom_right)))
+        return str((self.top_left_cell.val, self.bottom_right_cell.val))
 
 if __name__ == "__main__":
 
@@ -78,13 +78,13 @@ if __name__ == "__main__":
     print(df)
 
     c0 = Cell(0,3)
-    print(f"{c0.v}")
-    c0.r = 2
-    print(f"{c0.v}")
+    print(f"{c0.val}")
+    c0.row = 2
+    print(f"{c0.val}")
     
-    area = Area(df, (0, 0), (3,3))
+    area = Area(df, (0, 0), (2,2))
     print(area)
-    print(area.v)
+    print(area.val)
 
     c1 = Cell(5, 1)
 
