@@ -1,9 +1,16 @@
+from logging import getLogger
+
+logger = getLogger()
+
 class Cell:
     def __init__(self, row: int, col: int):
+        logger.info("create Cell instance")
+        logger.debug(f"{row=}:{col=}")
         if not isinstance(row, int) or not isinstance(col, int):
             raise ValueError("row of column number must be integer !!")
         self.__row = row
         self.__col = col
+        logger.debug(f"{self.__row=}:{self.__col=}")
 
     @property
     def row(self):
