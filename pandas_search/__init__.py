@@ -1,1 +1,1 @@
-# from pandas_search import PandasSearch
+from pandas_search.pandas_search import PandasSearch

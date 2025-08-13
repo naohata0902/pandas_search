@@ -1,5 +1,5 @@
 import pytest
-from ..lib import Cell
+from lib import Cell
 
 # Normal Case
 cell = Cell(2, 3)

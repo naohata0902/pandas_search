@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-from ..pandas_search import PandasSearch
+from pandas_search import PandasSearch
 
 # Normal Case
 df = pd.DataFrame([["taro", 23, "male"],
