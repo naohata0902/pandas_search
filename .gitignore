@@ -1,2 +1,5 @@
 *.pyc
 */__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/

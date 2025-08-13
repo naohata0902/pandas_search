@@ -5,7 +5,7 @@ import re
 from logging import config, getLogger
 from pandas_search.lib import Area, Cell
 
-config.fileConfig("logging.conf")
+config.fileConfig("pandas_search/logging.conf")
 logger = getLogger()
 
 
