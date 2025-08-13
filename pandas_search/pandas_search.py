@@ -120,16 +120,17 @@ class PandasSearch:
             (Cell): bottom right cell position
         """
         size_row, size_col = target_size
-        row = self.calc_real_bottom_right(top_left_cell.row, self.nr - 1, size_row)
-        col = self.calc_real_bottom_right(top_left_cell.col, self.nc - 1, size_col)
+        row = self.get_bottom_right_cell_value(top_left_cell.row, self.nr - 1, size_row)
+        col = self.get_bottom_right_cell_value(top_left_cell.col, self.nc - 1, size_col)
         logger.debug(f"{row=}, {col=}")
 
         return Cell(row, col)
     
-    def calc_real_bottom_right(self, start_position: int,
+    def get_bottom_right_cell_value(self, start_position: int,
                                max_position: int,size: int) -> int:
         """
-        get the value of real bottom_right cell's row or column
+        get the value of bottom_right cell's row or column value
+        this is used in calc_bottom_right_cell function
         Parameter: 
             start_position(int): number of top_left_cell row of column of target_area
             max_position(int): last row number or last column number
