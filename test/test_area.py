@@ -1,4 +1,4 @@
-from lib import Area
+from pandas_search.lib import Area
 import pandas as pd
 import pytest
 

@@ -3,7 +3,7 @@ from collections.abc import Generator
 import pandas as pd
 import re
 from logging import config, getLogger
-from lib import Area, Cell
+from pandas_search.lib import Area, Cell
 
 config.fileConfig("logging.conf")
 logger = getLogger()
