@@ -83,7 +83,7 @@ class PandasSearch:
         this gives the cell position matching to the regular expression
         in the area defined by rows
         """
-        yield from self.search(word, (min(rows), 0), (max(rows), -1), exact_match)
+        yield from self.search(word, (rows[0], 0), (rows[1], -1), exact_match)
 
     def csearch(self, word: str,
                 cols: list[int, int],
@@ -93,7 +93,7 @@ class PandasSearch:
         this gives the cell position matching to the regular expression
         in the area defined by cols
         """
-        yield from self.search(word, (0, min(cols)), (-1, max(cols)), exact_match)
+        yield from self.search(word, (0, cols[0]), (-1, cols[1]), exact_match)
 
     def peek(self,
               searched_cells: Generator,

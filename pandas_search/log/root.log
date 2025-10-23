@@ -1,0 +1,975 @@
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:18) create an instance of PandasSearch
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:93) start peek
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:93) start peek
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:93) start peek
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:93) start peek
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:93) start peek
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:93) start peek
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:61) start search
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](cell.py:7) create Cell instance
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:34:1755250466][INFO](pandas_search.py:31) start is_match
+[2025-08-15 09:39:1755250750][INFO](pandas_search.py:18) create an instance of PandasSearch
+[2025-08-15 11:08:1755256127][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256127][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256127][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256127][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:22) create an instance of PandasSearch
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:65) start search
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:08:1755256128][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:21) create an instance of PandasSearch
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:64) start search
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:11:1755256299][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:12:1755256321][INFO](pandas_search.py:21) create an instance of PandasSearch
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:21) create an instance of PandasSearch
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:64) start search
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:16:1755256610][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:21) create an instance of PandasSearch
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:96) start peek
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:64) start search
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:21:1755256890][INFO](pandas_search.py:34) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:22) create an instance of PandasSearch
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:97) start peek
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:65) start search
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](cell.py:7) create Cell instance
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 11:24:1755257060][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:22) create an instance of PandasSearch
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:97) start peek
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:97) start peek
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:97) start peek
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:97) start peek
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:97) start peek
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:97) start peek
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:65) start search
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](cell.py:7) create Cell instance
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
+[2025-08-15 13:05:1755263146][INFO](pandas_search.py:35) start is_match
