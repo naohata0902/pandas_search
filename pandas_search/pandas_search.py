@@ -4,7 +4,8 @@ from pathlib import Path
 import pandas as pd
 import re
 from logging import config, getLogger
-from pandas_search.lib import Area, Cell
+from pandas_search.lib import Area
+import numpy as np
 
 current_filepath = Path(__file__).resolve().parent
 config.fileConfig(current_filepath.joinpath("logging.conf"))
@@ -20,6 +21,10 @@ class PandasSearch:
         logger.info("create an instance of PandasSearch")
         self.df = df
         self.nr, self.nc = df.shape
+        self.match_func = self.is_match
+
+    def set_match_function(self, my_func: callable) -> None:
+        self.match_func = my_func
 
     def is_match(self, value: str, expression: str) -> bool:
         """
@@ -41,9 +46,8 @@ class PandasSearch:
             return True
         
     def search(self, word: str,
-               top_left_cell: tuple[int, int] = (0, 0),
-               bottom_right_cell: tuple[int, int] = (-1, -1),
-               exact_match: bool = False
+               rows: tuple[int, int, int] = (None, None, None),
+               cols: tuple[int, int, int] = (None, None, None),
                ) -> Generator[tuple[int, int], None, None]:
         """
         this gives the cell position matching to the regular expression
@@ -51,29 +55,34 @@ class PandasSearch:
         Parameter:
             word(str): key word which we want to find.
                         It is defined by regular expression
-            top_left_cell(tuple[int, int]):
-                top left cell position in any area within the target dataframe
-            bottom_right_cell(tuple[int, int]):
-                bottom right cell position in any area within the target dataframe
-            exact_match(bool): default is Fault. this shows matching type
-                if you want to search word by exact match, this is set by True
+            rows(tuple[int, int, int]):
+            cols(tuple[int, int, int]):
         retrun:
             Generator: it shows cell position which is matched by regular expression
         """
         logger.info("start search")
-        logger.debug(f"{word=}, {top_left_cell=}, {bottom_right_cell=}, {exact_match=}")
-        if exact_match:
-            word = f"^{word}$"
-        npdf = self.df.astype(str).to_numpy()
-        area = Area(self.df, top_left_cell, bottom_right_cell)
+        logger.debug(f"{word=}, {rows=}, {cols=}")
+        # npdf = self.df.astype(str).to_numpy()
+        area = Area(rows, cols)
+        searched_df = area.extract(self.df)
         logger.debug(f"{area=}")
 
-        for ir in range(area.top_left_cell.row, area.bottom_right_cell.row + 1):
-            for ic in range(area.top_left_cell.col, area.bottom_right_cell.col + 1):
-                cell_val = npdf[ir, ic]
-                if self.is_match(cell_val, word):
-                    logger.debug(f"{ir=}, {ic=}")
-                    yield (ir, ic)
+        # 1. インデックスを0からの整数に振り直す
+        df_ = df.reset_index(drop=True)
+
+        # 2. カラムを0からの整数に振り直す
+        df_.columns = range(len(df_.columns))
+
+        # スライスでDataFrameを抽出
+        df__ = df_.iloc[0, 3, :] # dfを抽出
+
+        # スライスしたDataFrame上で 条件に合う座標を抽出
+        rows, cols = np.where(searched_df.map(self.match_func))
+
+        # 抽出した座標のインデックスとカラムを取得する
+        coords = zip(searched_df.index[rows], searched_df.columns[cols])
+        
+        return coords
 
     def rsearch(self, word: str,
                 rows: list[int, int],
